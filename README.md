@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 ### 欢迎来到我的GitHub个人主页！
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShiBaoliang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShiBaoliang&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ShiBaoliang/ShiBaoliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
